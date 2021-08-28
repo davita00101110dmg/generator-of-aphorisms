@@ -1,0 +1,29 @@
+body {
+  --color-primary: #2686e3;
+  --color-primary-dark: #0169b8;
+  --color-secondary: #252c6a;
+  --color-error: #cc3333;
+  --color-success: #4bb544;
+  --border-radius: 4px;
+  background: url("/static/background.jpg") center;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-family: Ubuntu, sans-serif;
+}
+
+.default {
+  color: #ffffff;
+}
+
+.error{
+  color: darkred;
+}
+
+.success {
+  color: green;
+}
