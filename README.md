@@ -1,3 +1,2 @@
-# mini-flask-project
-This is my first flask website. Basically log in/sign up forms, a little HTML and CSS for design and my old parsing code, which takes random aphorism from popular poem “The Knight in the Panther's Skin” and brings out it on the screen.
-You can also check it out on http://davita26.pythonanywhere.com/  P.S i hope its still there:)
+# generator-of-aphorisms web app
+App was created for Python's Quiz. It was created using Python's framework Flask, HTML & CSS & JS and it also tied up with SQLite database for storing data. In application you can log in / sign up and generate a random aphorism from poem “The Knight in the Panther's Skin”.
